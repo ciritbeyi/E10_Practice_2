@@ -5,6 +5,8 @@ public class ThirdClass {
 
         // Line 1
 
+        // Line 2
+
 
     }
 }
