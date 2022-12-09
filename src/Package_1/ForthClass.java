@@ -5,6 +5,8 @@ public class ForthClass {
 
         // line 1
 
+        // line 2
+
 
     }
 }
